@@ -14,7 +14,7 @@ public class Employee_Wage {
             System.out.println("Employee is present full time");
         } else if (random_num == 2) {
             System.out.println("Employee is present part time");
-            empHr = 8;
+            empHr = 4;
         } else {
             System.out.println("Employee is absent");
         }
